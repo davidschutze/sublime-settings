@@ -1,0 +1,28 @@
+{
+	"Seti_ClosedFolder_same": true,
+	"Seti_sb_small_padding": true,
+	"Seti_sb_tree_small": true,
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 25,
+	"auto_complete_with_fields": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti_orig.tmTheme",
+	"fade_fold_buttons": false,
+	"font_face": "Inconsolata",
+	"font_size": 18,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options": "draw_active",
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"margin": 0,
+	"open_files_in_new_window": false,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": false,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true,
+	"wrap_width": 115
+}
